@@ -1,21 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
   <rect width="16" height="16" fill="#faf8f1"/>
-  <g fill="#956307">
-    <rect x="14" y="2" width="1" height="1"/>
-    <rect x="14" y="4" width="1" height="1"/>
-    <rect x="14" y="6" width="1" height="1"/>
-    <rect x="14" y="8" width="1" height="1"/>
-    <rect x="14" y="10" width="1" height="1"/>
-    <rect x="14" y="12" width="1" height="1"/>
-    <rect x="2" y="14" width="1" height="1"/>
-    <rect x="4" y="14" width="1" height="1"/>
-    <rect x="6" y="14" width="1" height="1"/>
-    <rect x="8" y="14" width="1" height="1"/>
-    <rect x="10" y="14" width="1" height="1"/>
-    <rect x="12" y="14" width="1" height="1"/>
-    <rect x="14" y="14" width="1" height="1"/>
+  <g fill="#b77a08">
+    <path d="M13 2h1v1h-1zm2 1h1v1h-1zm-2 1h1v1h-1zm2 1h1v1h-1zm-2 1h1v1h-1zm2 1h1v1h-1zm-2 1h1v1h-1zm2 1h1v1h-1zm-2 1h1v1h-1zm2 1h1v1h-1zm-2 1h1v1h-1zm2 1h1v1h-1zm-2 1h1v1h-1zm2 1h1v1h-1z"/>
+    <path d="M2 13h1v1H2zm2 0h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zM3 15h1v1H3zm2 0h1v1H5zm2 0h1v1H7zm2 0h1v1H9zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1z"/>
   </g>
   <rect x="1" y="1" width="12" height="12" fill="#191812"/>
   <rect x="2" y="2" width="10" height="10" fill="#faf8f1"/>
-  <path fill="#191812" d="M4 4h7v2H6v1h4v1H6v2h5v2H4z"/>
+  <path d="M4.5 4v7M4.5 4h6M4.5 7.5h5M4.5 11h6" fill="none" stroke="#191812" stroke-width="1.5" stroke-linecap="square" shape-rendering="geometricPrecision"/>
 </svg>
