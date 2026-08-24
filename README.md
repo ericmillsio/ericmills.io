@@ -1,9 +1,9 @@
 # ericmills.io
 
-https://jekyllrb.com/docs/step-by-step/01-setup/
+Static source for [ericmills.io](https://ericmills.io). GitHub Pages publishes the files from `main` without a build step (the `.nojekyll` file enables direct static deployment).
 
-## Install Jekyll
+## Run locally
 
 ```bash
-gem install jekyll bundler
+python3 -m http.server 4173
 ```
