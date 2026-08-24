@@ -1,25 +1,27 @@
 ---
 permalink: /404.html
-layout: default
 ---
-
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>Page not found | Eric Mills</title>
+    <link rel="stylesheet" href="/assets/site.css">
+    <link rel="icon" href="/assets/favicon-32x32.png" type="image/png">
+    <link rel="icon" href="/assets/favicon.ico" sizes="any">
+    <style>
+      .missing { width: min(600px, calc(100% - 36px)); margin: 12vh auto; }
+      .missing h1 { margin-bottom: 24px; }
+      .missing p { font-size: 17px; }
+    </style>
+  </head>
+  <body>
+    <main class="missing">
+      <h1>Page not found</h1>
+      <p>The page you’re looking for doesn’t exist (or it moved).</p>
+      <p><a href="/">Go back to ericmills.io</a></p>
+    </main>
+  </body>
+</html>

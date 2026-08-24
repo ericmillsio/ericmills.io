@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eric Mills
-description: Software Engineer, Tech Entrepreneur, Y Combinator Alum, UIUC Alum
+title: "Eric Mills | Founder & Software Engineer"
+description: "Eric Mills is a founder and software engineer in Chicago, building products across AI, data infrastructure, and security."
 email: me@ericmills.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericmills.io" # the base hostname & protocol for your site, e.g. http://example.com
